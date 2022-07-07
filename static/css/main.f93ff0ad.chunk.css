@@ -1,0 +1,2 @@
+*{box-sizing:border-box}.title{font-family:"Courier New",Courier,monospace;font-size:32px;font-style:italic;text-align:center}.form{max-width:300px;display:flex;justify-content:space-between;flex-direction:column;padding:20px}.form__items{width:300px}.form__select{padding:10px;border:2px solid #000;border-radius:20px}.form__input{padding:10px;border-radius:20px}.form__error{color:red}.form__button-submit{width:100px;padding:10px;background:#333;color:#fff;border-radius:20px}
+/*# sourceMappingURL=main.f93ff0ad.chunk.css.map */
